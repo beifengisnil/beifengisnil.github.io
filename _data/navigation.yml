@@ -11,7 +11,7 @@ main:
   - title: "GO知识"
     url: /talks/    
 
-  - title: "C/C++/ASM汇编/编译器/虚拟机/ARM/嵌入式/内功"
+  - title: "C/C++/嵌入式"
     url: /teaching/    
 
   - title: "其它"
