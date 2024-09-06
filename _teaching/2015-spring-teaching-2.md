@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-通过学习    
+通过学习可加微信Le-studyg赞助       
 # 内功修炼
 -  内功修炼课程  掌握X86架构，LINUX ATT ASM
 -  掌握GDB调试技术
