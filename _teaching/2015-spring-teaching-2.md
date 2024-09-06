@@ -1,9 +1,9 @@
 ---
 title: "吸收转化github c/c++开源项目必备前置核心技术"
 collection: teaching
-type: "吸收转化github c/c++开源项目必备前置核心技术"
+type: "github c/c++"
 permalink: /teaching/2015-spring-teaching-1
-venue: "吸收转化github c/c++开源项目必备前置核心技术"
+venue: "github c/c++"
 date: 2015-01-01
 location: "City, Country"
 ---
