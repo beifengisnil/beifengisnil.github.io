@@ -11,17 +11,6 @@ main:
   - title: "GO知识"
     url: /talks/    
 
-  - title: "C语言"
+  - title: "C/C++/ASM汇编/编译器/虚拟机/ARM/嵌入式/内功"
     url: /teaching/    
     
-  - title: "X86汇编"
-    url: /portfolio/
-        
-  - title: "编译器"
-    url: /year-archive/
-    
-  - title: "GDB调试"
-    url: /cv/
-    
-  - title: "博客"
-    url: /markdown/
