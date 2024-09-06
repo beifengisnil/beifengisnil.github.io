@@ -1,9 +1,9 @@
 ---
 title: "核心技术"
 collection: teaching
-type: "Workshop"
+type: "核心技术"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "核心技术"
 date: 2015-01-01
 location: "City, Country"
 ---
