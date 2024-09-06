@@ -8,7 +8,7 @@ date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: '掌握后可平移经验到其它编程语言，因为其它编程语言同样以LINUX服务器为主，运行在同一个OS,同一个CPU架构，同一个TCP/IP，它们是一样的，不存在过时的问题'
+citation: '掌握后可平移经验到其它编程语言'
 ---
 
 通过学习以下内容    
@@ -20,6 +20,11 @@ citation: '掌握后可平移经验到其它编程语言，因为其它编程语
 
 2.能自已手写出类似webman/workerman的能力     
 
-3.可以实现出php版本的swoole核心模块      
+3.可以实现出php版本的swoole核心模块         
+
+
+因为其它编程语言同样以LINUX服务器为主，运行在同一个OS,同一个CPU架构，同一个TCP/IP，它们是一样的，不存在过时的问题  
+语法不是根本，只是工具，掌握它们（PHP JAVA GO PYTHON NODE...）的本质才是重点。    
+
 
     
