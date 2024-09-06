@@ -7,7 +7,7 @@ venue: "吸收转化github c/c++开源项目必备前置核心技术"
 date: 2015-01-01
 location: "City, Country"
 ---
-# 吸收转化github c/c++开源项目必备前置核心技术   
+## 吸收转化github c/c++开源项目必备前置核心技术   
 github 上许多优秀的开源项目，特别是以c/c++为主的开源项目，涵盖了所有领域，吸收转化后将无知不知，无所不能，你的知识来源将由强大的github开源项目来支持你走得更远
 更多的机会和可能就在github上的 c/c++/asm开源项目里。   
 
@@ -24,6 +24,7 @@ github 上许多优秀的开源项目，特别是以c/c++为主的开源项目�
 - 对于吸收转化github上的 php-src java虚拟机  lua虚拟机  micropython  condon mysql llvm ...linux arm gcc 嵌入式编译器等开源项目作为重要的前置内容
 
 ## c/c++ 互联网的核心技术  
-作为程序员必学之  
+作为程序员必学之   
+![](https://github.com/beifengisnil/beifengisnil.github.io/blob/master/images/base.png)
 
   
