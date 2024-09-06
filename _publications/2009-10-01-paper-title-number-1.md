@@ -3,12 +3,12 @@ title: "手写实现workerman/webman"
 collection: publications
 category: PHP
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '通过实践强化理解PHP'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '掌握后可平移经验到其它编程语言，因为其它编程语言同样以LINUX服务器为主，运行在同一个OS,同一个CPU架构，同一个TCP/IP，它们是一样的，不存在过时的问题'
 ---
 
 通过学习以下内容    
