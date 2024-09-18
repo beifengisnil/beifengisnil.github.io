@@ -11,15 +11,21 @@ redirect_from:
 ![技术架构图](https://beifengisnil.github.io/images/base.png)    
 ## 核心技术视频    
 专研Linux 平台c/c++项目必备前置基础  
-![技术架构图](https://beifengisnil.github.io/images/ng.png)      
+![技术架构图](https://beifengisnil.github.io/images/ng.png)        
+课程名称：程序员内功修炼    
  
-![技术架构图](https://beifengisnil.github.io/images/lang.png)        
+![技术架构图](https://beifengisnil.github.io/images/lang.png)          
+课程名称：C++从0到1实现一门编程语言    
+
 ## 吸收转化github 所有c/c++项目的核心的重要技术   
-![技术架构图](https://beifengisnil.github.io/images/arm.png)        
+![技术架构图](https://beifengisnil.github.io/images/arm.png)         
+课程名称：GITHUB C语言大型开源项目吸收转化实战    
+
 - 实践完本课程个人将具备对github 大型C语言/C++开源项目阅读，分析，DEBUG,裁剪，移植能力
 - C/C++项目覆盖领域广，涉及技术含量高，github 上不计其数的 C/C++项目，不计其数的牛人，高级技术就蕴含在项目中，等着你吸收   
 - 为吸收转化欧美大佬的C/C++项目做好前置技术铺垫，构建起个人技术自主能力
-- 给你的东西---》技术自主能力：具备对github 大型C/C++项目源码级阅读，分析，DEBUG，裁剪，移植，吸收转化实力的建设
+- 你将学到的东西---》技术自主能力：具备对github 大型C/C++项目源码级阅读，分析，DEBUG，裁剪，移植，吸收转化实力的建设
+  
 ### 课程介绍   
 课程的核心重点内容不是课程目录，也不是课程项目本身，它们只是你构建起个人技术自主能力路上的一个实践过程，这个实践过程将帮助你建设技术自主能力。   
 这个技术自主能力你具备后，将具有能力和资格对GITHUB 上的C/C++大型项目进行源码阅读，分析，调试DEBUG，到源码裁剪，到移植到自已项目的这个能力。    
