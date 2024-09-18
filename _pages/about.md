@@ -14,7 +14,7 @@ redirect_from:
 ![技术架构图](https://beifengisnil.github.io/images/ng.png)      
  
 ![技术架构图](https://beifengisnil.github.io/images/lang.png)        
-
+## 吸收转化github 所有c/c++项目的核心的重要技术   
 ![技术架构图](https://beifengisnil.github.io/images/arm.png)        
 - 实践完本课程个人将具备对github 大型C语言/C++开源项目阅读，分析，DEBUG,裁剪，移植能力
 - C/C++项目覆盖领域广，涉及技术含量高，github 上不计其数的 C/C++项目，不计其数的牛人，高级技术就蕴含在项目中，等着你吸收   
