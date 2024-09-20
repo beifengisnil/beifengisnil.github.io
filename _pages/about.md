@@ -41,6 +41,7 @@ redirect_from:
 
 这样换个（GITHUB的大型任意C/C++开源项目）大型的C/C++开源项目你也会知道怎么吸收转化   】
 ![技术架构图](https://beifengisnil.github.io/images/githubc.png)    
+![技术架构图](https://beifengisnil.github.io/images/rz.png)  
 赞助微信号：Le-studyg    
 
   
