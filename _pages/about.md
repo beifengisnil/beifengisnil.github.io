@@ -43,7 +43,30 @@ redirect_from:
 ![技术架构图](https://beifengisnil.github.io/images/githubc.png)     
 # 课程以一个近1000人参与，近30年持续开发的大型C语言项目为引例，一步一步的带你以DEBUG，调试，裁剪，移植方式的阅读形式传授你“渔”的方法，让你实现吃鱼自由，实现技术自主，不是给你条死鱼，形成技术壁垒。   
 
-![技术架构图](https://beifengisnil.github.io/images/rz.png)  
+![技术架构图](https://beifengisnil.github.io/images/rz.png)    
+
+## 学完GITHUB C的价值：将有方法对以下mysql redis nginx llvm micropython nodejs openjdk linux libuv....等等开源项目阅读，分析，吸收，转化，裁剪，移植能力   
+[libuv](https://github.com/libuv/libuv)  
+[mysql](https://github.com/mysql/mysql-server)  
+[redis](https://github.com/redis/redis)  
+[llvm](https://github.com/llvm/llvm-project)  
+[micropython](https://github.com/micropython/micropython)  
+[nodejs](https://github.com/nodejs/node)  
+[cmake](https://github.com/Kitware/CMake)
+[openjdk](https://github.com/openjdk/jdk)
+[lua](https://github.com/lua/lua)  
+[cpython](https://github.com/python/cpython)  
+[nginx](https://github.com/nginx/nginx)  
+[memcached](https://github.com/memcached/memcached)  
+[freertos](https://github.com/FreeRTOS/FreeRTOS) 
+[qemu](https://github.com/qemu/qemu)  
+[gcc](https://github.com/gcc-mirror/gcc)  
+[cef](https://github.com/chromiumembedded/cef)  
+[opencv](https://github.com/opencv/opencv)  
+[tensorflow](https://github.com/tensorflow/tensorflow)  
+
+
+
 赞助微信号：Le-studyg    
 
   
